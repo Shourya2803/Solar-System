@@ -8,11 +8,11 @@ User-Friendly Interface: Designed for all age groups, including children and ast
 Frontend: React.js, CSS, SCSS
 Animations: CSS/SCSS Animations
  Project Structure :-
+ |-- README.md
  |-- css/
 |-- scss/
-|-- html/
 |-- haml/
-|-- README.md
+|-- html/
 How to Run :-
 1. Clone the repository
  git clone https://github.com/Shourya2803/Solar-System.git
